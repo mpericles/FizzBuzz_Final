@@ -1,0 +1,15 @@
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\bin\Debug\net6.0\FizzBuzz_Final.exe
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\bin\Debug\net6.0\FizzBuzz_Final.deps.json
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\bin\Debug\net6.0\FizzBuzz_Final.runtimeconfig.json
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\bin\Debug\net6.0\FizzBuzz_Final.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\bin\Debug\net6.0\FizzBuzz_Final.pdb
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.csproj.AssemblyReference.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.AssemblyInfoInputs.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.AssemblyInfo.cs
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.csproj.CoreCompileInputs.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\refint\FizzBuzz_Final.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.pdb
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\FizzBuzz_Final.genruntimeconfig.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\FizzBuzz_Final\obj\Debug\net6.0\ref\FizzBuzz_Final.dll
