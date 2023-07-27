@@ -1,10 +1,12 @@
-﻿namespace FizzBuzz_Final
+﻿using System;
+
+namespace FizzBuzz_Final
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FizzBuzz(15));
+            FizzBuzz(new int[] { 3, 5, 10, 15, 2 });
         }
 
         //Write a public method that accepts a number
@@ -14,31 +16,39 @@
         //3. Method Name
         //4. Parameters
         //5. Scope 
-        public static string FizzBuzz(int i)    
+        public static void FizzBuzz(int[] arraynumbers)
         {
-            // Once I moved the code to Visual Community from Visual Code found 8 errors
-            // the errors had to do with missing semicolans; repeat %; my parameter declared as number and me using
-            // the interger I in my if else if statement
-            // The other issue I was fighting with the compiler about was th fact that i did a if, else if and else statement
-            // and it gave me an erro for the semicolon for the else but it seems I just needed to return.. learning
-            // so it did not run kinda as it gave me a message about trusting the ASP.net certificate. Took a chance and said yes
-            // Need to talk to someone about this one 
-
+            
+            for (int i = 0; i < arraynumbers.Length; i++)
+            { 
             //when the number is divisible by both, return the word fizzbuzz
-            if (i % 3 == 0 && i % 5 == 0)
+            if (arraynumbers[i] % 3 == 0 && arraynumbers[i] % 5 == 0)
             {
-                return "fizzbuzz";
+                Console.WriteLine("fizzbuzz");
+                Console.WriteLine($"This is the value of the integer that returned fizzbuzz: {arraynumbers[i]}");
+                Console.WriteLine();
             }
             //when the number is divisible by 5 return the word buzz
-            else if (i % 5 == 0)
+            else if (arraynumbers[i] % 5 == 0)
             {
-                return "fizz";
+                Console.WriteLine("fizz");
+                Console.WriteLine($"This is the value of the integer that returned fizz: {arraynumbers[i]}");
+                Console.WriteLine();
             }
             //when the number is divisible by 3 return the word fizz
-            //else (i % 3 == 0)
+            else if (arraynumbers[i] % 3 == 0)
             {
-                return "buzz";
+                Console.WriteLine("buzz");
+                Console.WriteLine($"This is the value of the integer that returned buzz: {arraynumbers[i]}");
+                Console.WriteLine();
+
             }
+            else
+            {
+                Console.WriteLine($"This is the value of the integer that is the exception: {arraynumbers[i]}");
+                Console.WriteLine();
+            }
+        }
         }
     }
 }
